@@ -1,0 +1,22 @@
+{
+  "name": "octagon-bloat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-octagon": "^7.0.1",
+    "webpack-visualizer-plugin": "^0.1.11"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.10",
+    "react-scripts-webpack-config-editor": "^1.0.0"
+  },
+  "scripts": {
+    "install": "react-scripts-webpack-config-editor scripts/webpack-hack.js",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
