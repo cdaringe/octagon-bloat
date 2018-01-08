@@ -1,5 +1,7 @@
 # problem
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cdaringe/octagon-bloat.svg)](https://greenkeeper.io/)
+
 builds are big
 
 # usage
