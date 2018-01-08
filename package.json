@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-octagon": "^7.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-octagon": "^8.1.0",
     "webpack-visualizer-plugin": "^0.1.11"
   },
   "devDependencies": {
-    "react-scripts": "1.0.10",
+    "react-scripts": "1.0.17",
     "react-scripts-webpack-config-editor": "^1.0.0"
   },
   "scripts": {
